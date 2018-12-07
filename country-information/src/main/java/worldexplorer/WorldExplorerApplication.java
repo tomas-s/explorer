@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-@Slf4j
 public class WorldExplorerApplication {
 
 	private static final Logger log = LoggerFactory.getLogger(WorldExplorerApplication.class);

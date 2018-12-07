@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <name>world-explorer</name>
-    <description>Demo project for Spring Boot</description>
+    <description>World explorer application</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
