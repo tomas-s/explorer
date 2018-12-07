@@ -20,7 +20,6 @@ public class WorldExplorerApplicationTests {
 	public void callRest(){
 		Quote quote = restClient.getQuote();
 		System.out.println(quote);
-
 	}
 
 

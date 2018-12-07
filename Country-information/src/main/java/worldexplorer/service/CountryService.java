@@ -21,8 +21,8 @@ public class CountryService {
     public void getCountryData(){
         Quote quote = restClient.getQuote();
         //je potrebne namapovat objekt
+//
 //        vr.saveAndFlush(quote.getValue());
-
     }
 
 }
